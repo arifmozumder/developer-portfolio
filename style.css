@@ -19,9 +19,8 @@ section{
 }
 .Link-button{
     text-decoration: none;
-    background-color: orangered;
-    padding: 10px 40px;
-    color: aliceblue;
     font-weight: 700;
-    border-radius: 5px;
+    background-color: rgb(238, 73, 13);
+    padding: 10px 40px;
+    border-radius: 10px;
 }
